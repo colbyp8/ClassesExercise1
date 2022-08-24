@@ -1,0 +1,16 @@
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\bin\Debug\net5.0\BasicClasses.exe
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\bin\Debug\net5.0\BasicClasses.deps.json
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\bin\Debug\net5.0\BasicClasses.runtimeconfig.json
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\bin\Debug\net5.0\BasicClasses.runtimeconfig.dev.json
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\bin\Debug\net5.0\BasicClasses.dll
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\bin\Debug\net5.0\BasicClasses.pdb
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\BasicClasses.csproj.AssemblyReference.cache
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\BasicClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\BasicClasses.AssemblyInfoInputs.cache
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\BasicClasses.AssemblyInfo.cs
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\BasicClasses.csproj.CoreCompileInputs.cache
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\BasicClasses.dll
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\refint\BasicClasses.dll
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\BasicClasses.pdb
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\BasicClasses.genruntimeconfig.cache
+C:\Users\cbpat\Desktop\repos\BasicClassesSolution\BasicClasses\obj\Debug\net5.0\ref\BasicClasses.dll
